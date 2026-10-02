@@ -89,7 +89,7 @@ a {
 }
 
 .hero-content {
-  max-width: 860px;
+  max-width: 1080px;
 }
 
 .eyebrow,
@@ -110,7 +110,7 @@ h2 {
 }
 
 h1 {
-  max-width: 800px;
+  max-width: 1080px;
   font-size: clamp(3rem, 8vw, 6.25rem);
   font-weight: 600;
   line-height: 0.98;
