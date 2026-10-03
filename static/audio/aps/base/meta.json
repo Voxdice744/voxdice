@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "lang_id": "zh",
+  "task_id": "APS",
+  "audio_id": "ZH_B00001_S04396_W000053",
+  "source_index": 1465,
+  "text": "其实，早在托马斯爱迪生造出白炽灯泡之前，已经有不少白炽灯泡问世了。问题是，那些白炽灯泡都不实用，不能长时间照明。",
+  "instruct": "- 性别：男性\n- 音高：低沉平稳的男性音高\n- 语速：平缓叙述的语速\n- 音量：正常的会话音量\n- 年龄：中年\n- 清晰度：发音清晰准确\n- 流畅度：流畅自然，无停顿\n- 口音：标准的汉语普通话\n- 音色质感：醇厚沉稳\n- 情绪：客观中立\n- 语调：平铺直叙的陈述性语调\n- 性格：沉稳博学",
+  "reference_audio": "/apdcephfs_cq8/share_303090499/kaifengyun/diversity_bench/final_version/emilia_data_emobalanced/wav/ZH_B00001_S04396_W000053.mp3",
+  "vendi_score": 2.5685409788066034,
+  "avg_pairwise_cosine_distance": 0.24340217462841113
+}

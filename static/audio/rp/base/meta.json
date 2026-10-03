@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "lang_id": "zh",
+  "task_id": "RP",
+  "audio_id": "ZH_B00069_S00663_W000002",
+  "source_index": 7334,
+  "text": "这是中国国产大飞机第一次在境外航展上亮相。在这个亚洲最大航展的室内展馆当中啊，中国商飞的展台主题是“携手同行，共创未来”。",
+  "instruct": "展现一位企业高管在会议报告时的状态，语气坚定，信息传递精准无误。",
+  "reference_audio": "/apdcephfs_cq8/share_303090499/kaifengyun/diversity_bench/final_version/emilia_data_emobalanced/wav/ZH_B00069_S00663_W000002.mp3",
+  "vendi_score": 3.078749508575471,
+  "avg_pairwise_cosine_distance": 0.2969985620896863
+}

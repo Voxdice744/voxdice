@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "lang_id": "zh",
+  "task_id": "DSD",
+  "audio_id": "ZH_B00012_S03958_W000004",
+  "source_index": 2633,
+  "text": "这里的弯道走上面的加速带，就可以领先出一大截。过来之后向左拉，超第二个进道。这两个进道，如果大家都超到了，那么你一定是可以名列前茅的。然后就是终点前的加速带，一定记得要吃，不然呢就要绕一大圈，非常的慢。",
+  "instruct": "声音应展现出青年男性的特质，以汉语普通话的清晰口音呈现，同时注重教学指导式的语调，确保经验丰富的语气。",
+  "reference_audio": "/apdcephfs_cq8/share_303090499/kaifengyun/diversity_bench/final_version/emilia_data_emobalanced/wav/ZH_B00012_S03958_W000004.mp3",
+  "vendi_score": 4.370719280737359,
+  "avg_pairwise_cosine_distance": 0.4491360972866453
+}
