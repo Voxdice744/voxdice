@@ -20,7 +20,7 @@
     <div class="nav-shell">
       <a class="site-mark" href="#top" aria-label="Back to top">Research Demo</a>
       <nav class="site-nav" aria-label="Primary navigation">
-        <a href="#introduction">Introduction</a>
+        <a href="#abstract">Abstract</a>
         <a href="#benchmark">Benchmark Results</a>
         <a href="#rl-training">RL Training</a>
       </nav>
@@ -36,13 +36,13 @@
       </div>
     </section>
 
-    <section id="introduction" class="content-section" aria-labelledby="introduction-title">
+    <section id="abstract" class="content-section" aria-labelledby="abstract-title">
       <div class="content-shell">
         <div class="section-heading">
           <p class="section-index">01</p>
-          <h2 id="introduction-title">Introduction</h2>
+          <h2 id="abstract-title">Abstract</h2>
         </div>
-        <div class="introduction-content">
+        <div class="abstract-content">
           <p>Voice design requires generating natural speech that adheres to textual descriptions while providing diverse timbre candidates for applications like character casting. Since natural language descriptions constrain perceptual attributes without dictating a unique speaker identity, multiple distinct voices can satisfy a single instruction. However, current research primarily emphasizes instruction following and overlooks timbre diversity, leaving the generation of diverse yet compliant voices underexplored. To address this gap, we introduce VoxDICE, a benchmark combining hierarchical voice descriptions and a real speech reference set to jointly assess instruction following, conditional timbre variation, and global speaker distribution alignment. Evaluations of current models on VoxDICE reveal a prevalent empirical tension between instruction-following and timbre diversity. To overcome this limitation, we propose a reinforcement learning approach based on group relative policy optimization. This method integrates a distinct timbre reward within generation groups alongside an instruction gate that restricts diversity bonuses to compliant candidates. Experiments on the Qwen3 TTS model demonstrate significant improvements in both timbre diversity and instruction following, establishing that these capabilities can be jointly enhanced.</p>
         </div>
       </div>
